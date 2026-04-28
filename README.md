@@ -1,6 +1,6 @@
 # Boost Your Productivity with Zellij
 
-A talk for the Rust Meetup at ExpressVPN in Hong Kong
+A talk for the [Rust Meetup at ExpressVPN](https://github.com/lucianosrp/talks) in Hong Kong.
 
 ## The Problem
 
