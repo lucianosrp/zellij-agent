@@ -1,0 +1,5 @@
+# Generated presentation images
+static/
+
+# OS noise
+.DS_Store
