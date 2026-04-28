@@ -15,10 +15,11 @@ Agenda
 ===
 
 1. The problem
-2. What is Zellij?
-3. Demo time
-4. Now, add your agent!
-5. Q&A
+2. The terminal is back!
+3. What is Zellij?
+4. Demo time
+5. Now, add your agent!
+6. Q&A
 
 ⚠️ AI slop disclaimer ⚠️
 ===
@@ -93,6 +94,27 @@ Demo time
 # 🎬 Demo time
 
 _(switch to live terminal)_
+
+The terminal is back
+===
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
+## TUIs are back, baby
+
+AI coding tools like **Claude Code**, **opencode**, and **Codex** live in the terminal.
+
+IDEs are optional now.
+
+<!-- column: 1 -->
+
+## Why does this matter?
+
+Your agent needs a real terminal — not a fragile subprocess that dies when you close the window.
+
+<!-- reset_layout -->
 
 Now, add your agent!
 ===

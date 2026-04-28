@@ -8,6 +8,12 @@ A talk for the [Rust Meetup at ExpressVPN](https://github.com/lucianosrp/talks) 
 - Do you often work in a remote environment?
 - Do you often work with multiple machines in different systems and architectures?
 
+## The Terminal is Back
+
+AI coding agents — Claude Code, opencode, Codex — live in the terminal. IDEs are optional.
+
+Your agent needs a real terminal workspace, not a fragile subprocess that dies when you close the window.
+
 ## What is Zellij?
 
 Zellij is a modern terminal multiplexer written in Rust — batteries included, sensible defaults, works out of the box.
