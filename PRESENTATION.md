@@ -11,6 +11,30 @@ theme:
   name: light
 ---
 
+About me
+===
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
+## Luciano Scarpulla
+
+- Python developer at WINGX (JETNET)
+- Aviation data — Python + SQL, a bit of Rust
+- Building data pipelines and CLI tools
+
+<!-- column: 1 -->
+
+## Find me
+
+- GitHub: github.com/lucianosrp
+- LinkedIn: linkedin.com/in/luciano-scarpulla
+
+<!-- reset_layout -->
+
+Questions?
+
 Agenda
 ===
 
@@ -52,6 +76,27 @@ What is Zellij
 
 ![image:width:100%](./static/7.png)
 
+The terminal is back
+===
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
+## TUIs are back
+
+AI coding tools like **Claude Code**, **opencode**, and **Codex** live in the terminal.
+
+IDEs are optional now.
+
+<!-- column: 1 -->
+
+## Why does this matter?
+
+Your agent needs a real terminal — not a fragile subprocess that dies when you close the window.
+
+<!-- reset_layout -->
+
 Vocabulary
 ===
 
@@ -85,6 +130,7 @@ WebAssembly plugins + a clean CLI mean your AI agent gets a real terminal worksp
 
 <!-- reset_layout -->
 
+
 Demo time
 ===
 
@@ -94,27 +140,6 @@ Demo time
 # 🎬 Demo time
 
 _(switch to live terminal)_
-
-The terminal is back
-===
-
-<!-- column_layout: [1, 1] -->
-
-<!-- column: 0 -->
-
-## TUIs are back, baby
-
-AI coding tools like **Claude Code**, **opencode**, and **Codex** live in the terminal.
-
-IDEs are optional now.
-
-<!-- column: 1 -->
-
-## Why does this matter?
-
-Your agent needs a real terminal — not a fragile subprocess that dies when you close the window.
-
-<!-- reset_layout -->
 
 Now, add your agent!
 ===
@@ -140,4 +165,3 @@ and gives your **agent** a real place to live.
 
 **Try it:** `cargo install zellij` — or grab a binary from the releases page.
 
-Questions?
